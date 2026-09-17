@@ -1,0 +1,8 @@
+{
+    "name":"lovable",
+    "private":true,
+    "workspaces":[
+        "apps/*",
+        "packages/*"
+    ]
+}
