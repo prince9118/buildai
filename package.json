@@ -1,5 +1,5 @@
 {
-    "name":"lovable",
+    "name":"buildai",
     "private":true,
     "workspaces":[
         "apps/*",

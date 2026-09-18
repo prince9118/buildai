@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "@buildai/api",
   "module": "src/index.ts",
   "type": "module",
   "private": true,
